@@ -1,6 +1,7 @@
 .img3 img{
     width: 200px;
     height: 200px;
+    margin: 10px;
 
 }
 .img3{
@@ -21,7 +22,7 @@ p{
     margin-left: 50px;
 }
 .left-division{
-    background-color: burlywood;
+    background-color: rgb(210, 193, 193);
     width: 400px;
     height: 920px;
     position: absolute;
@@ -59,4 +60,11 @@ li{
     bottom: 292px;
     color: blue;
     height: 50px;
+}
+@import url('https://fonts..com/css2?family=Playball&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300&display=swap');
+.footer{
+    font-family: 'Playball', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
 }
