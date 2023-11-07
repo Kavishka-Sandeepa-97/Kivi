@@ -6,3 +6,29 @@
 .img3{
     text-align: center; 
 }
+.red-square::before{
+    content:'\25A0' ;
+    color:red;
+    font-size: 25px
+}
+.blue-square::before{
+    content:'\25A0' ;
+    color:blue;
+    font-size: 25px
+}
+p{
+    text-align: justify;
+    margin-left: 50px;
+}
+.left-division{
+    background-color: burlywood;
+    width: 400px;
+    height: 800px;
+    position: absolute;
+    top: 382px;
+    right: 230px;
+
+}
+h4{
+    margin-left: 50px;
+}
