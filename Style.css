@@ -23,12 +23,40 @@ p{
 .left-division{
     background-color: burlywood;
     width: 400px;
-    height: 800px;
+    height: 920px;
     position: absolute;
     top: 382px;
     right: 230px;
-
+   
 }
 h4{
     margin-left: 50px;
+}
+.brown-kivi-img{
+    width: 75%;
+    height: 200px;
+    position: relative;
+    margin-left: 50px;
+}
+    
+.srtrip-div{
+    width:100%;
+    height: 40px;
+    background-color:rgb(98, 159, 5);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+li{
+    margin-bottom: 10px;
+}
+.left-in-left-div{
+    position: relative;
+    left: 191px;
+    bottom: 292px;
+    color: blue;
+    height: 50px;
 }
